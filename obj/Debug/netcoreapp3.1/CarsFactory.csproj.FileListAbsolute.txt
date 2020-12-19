@@ -1,0 +1,12 @@
+/Users/sanya/paternsCsharp_study/homework/factoryHomework/CarsFactory/bin/Debug/netcoreapp3.1/CarsFactory.deps.json
+/Users/sanya/paternsCsharp_study/homework/factoryHomework/CarsFactory/bin/Debug/netcoreapp3.1/CarsFactory.runtimeconfig.json
+/Users/sanya/paternsCsharp_study/homework/factoryHomework/CarsFactory/bin/Debug/netcoreapp3.1/CarsFactory.runtimeconfig.dev.json
+/Users/sanya/paternsCsharp_study/homework/factoryHomework/CarsFactory/bin/Debug/netcoreapp3.1/CarsFactory.dll
+/Users/sanya/paternsCsharp_study/homework/factoryHomework/CarsFactory/bin/Debug/netcoreapp3.1/CarsFactory.pdb
+/Users/sanya/paternsCsharp_study/homework/factoryHomework/CarsFactory/obj/Debug/netcoreapp3.1/CarsFactory.csprojAssemblyReference.cache
+/Users/sanya/paternsCsharp_study/homework/factoryHomework/CarsFactory/obj/Debug/netcoreapp3.1/CarsFactory.AssemblyInfoInputs.cache
+/Users/sanya/paternsCsharp_study/homework/factoryHomework/CarsFactory/obj/Debug/netcoreapp3.1/CarsFactory.AssemblyInfo.cs
+/Users/sanya/paternsCsharp_study/homework/factoryHomework/CarsFactory/obj/Debug/netcoreapp3.1/CarsFactory.csproj.CoreCompileInputs.cache
+/Users/sanya/paternsCsharp_study/homework/factoryHomework/CarsFactory/obj/Debug/netcoreapp3.1/CarsFactory.dll
+/Users/sanya/paternsCsharp_study/homework/factoryHomework/CarsFactory/obj/Debug/netcoreapp3.1/CarsFactory.pdb
+/Users/sanya/paternsCsharp_study/homework/factoryHomework/CarsFactory/obj/Debug/netcoreapp3.1/CarsFactory.genruntimeconfig.cache
